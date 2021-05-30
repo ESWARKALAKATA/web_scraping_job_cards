@@ -1,3 +1,12 @@
+"""
+@author: eswar
+"""
+#scaraping job desciptions from monister.com 
+#same impletion can be done for sourcing candidates
+#for sourcing candidates details we need employeer cridentials
+
+
+
 from time import *
 from selenium import webdriver
 import pymongo
